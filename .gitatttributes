@@ -1,4 +1,4 @@
 * -text
 *.fakes binary
 *.exe diff
-*.png binary
+*.png diff text
