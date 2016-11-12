@@ -2,3 +2,4 @@
 *.fakes binary
 *.exe diff
 *.png diff=image
+*.pdf binary
