@@ -1,2 +1,3 @@
 * -text
 *.fakes binary
+*.exe diff
